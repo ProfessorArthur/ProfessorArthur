@@ -2,7 +2,7 @@
 
 This profile contains my notable projects from college to the present. Have a look around! ✨
 
-## 🚀 Projects so far
+## My Projects so far
 
 ### Web & Mobile Applications
 - **pcpartsph** – React + NodeJS PC Parts aggregator.
@@ -15,6 +15,7 @@ This profile contains my notable projects from college to the present. Have a lo
 ### Game Dev & Systems
 - **2D_Slime_Platformer** – Made in Unity Engine (C#).
 - **Simple Remote Desktop** – System utility built with Java.
+- **SimpleRFIDV2** - Python-based application for automatically inputting the hex string within an RFID Card wherever the mouse cursor is at any input field in the screen.
 
 ---
 
